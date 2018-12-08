@@ -15,8 +15,5 @@
   "dependencies": {
     "express": "^4.16.4",
     "prettier": "^1.15.3"
-  },
-  "devDependencies": {
-    "@types/express": "^4.16.0"
   }
 }
